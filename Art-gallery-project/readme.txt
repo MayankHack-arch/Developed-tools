@@ -20,5 +20,5 @@ Prerequisites
     An internet connection for accessing the API
     All four files index.html, gallery.html, script.js, style.css
 
-Hope you will enjoy my project and also feedback me any changes.
+Hope you will enjoy my project and also feedback me any suggestions.
 gmail- yug8566@gmail.com
