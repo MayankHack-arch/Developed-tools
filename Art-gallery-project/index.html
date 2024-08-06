@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Art Gallery Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body id="index-body">
+    <nav class="navbar">
+        <div class="logo">Mayank's art gallery</div>
+        <div class="menu-icon" onclick="toggleMenu()">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+        <ul class="menu" id="menu">
+            <li><a href="https://github.com/MayankHack-arch/Developed-tools">My github-projects ↗️</a></li>
+            <li><a href="https://www.linkedin.com/in/mayank-s-852779320">LinkedIn profile ↗️</a></li>
+            <li><a href="https://github.com/MayankHack-arch/MayankHack-arch">Github profile ↗️</a></li>
+        </ul>
+    </nav>
+    <div class="cont">
+    <h2 id="heading"> Welcome to my art Gallery where you can see the art works of the great artists</h2>
+    <button class="button"id="toGallery">Art Gallery →</button>
+    </div>
+    <div class="gen">
+        <h2 class="api-h">Art gallery project with API</h2>
+        <p class="static-a">Some Famous artists of world</p>
+        <div>
+            <div class="static-artists">
+                <div class="artist-container">
+                    <img class="imgArtist" src="https://nmwa.org/wp-content/uploads/2020/01/Cassatt-Mary.jpg" alt="Mary Cassatt">
+                    <p class="artist-name">Mary Cassatt</p>
+                </div>
+                <div class="artist-container">
+                    <img class="imgArtist" src="https://media.gettyimages.com/id/514907552/photo/french-painter-and-woodcut-artist-paul-gauguin.jpg?s=612x612&w=0&k=20&c=ILZ_Xi_ysFSgs3-MOiH3iplg2jlTga0w5U_JsDx9f9I=" alt="Paul Gauguin">
+                    <p class="artist-name">Paul Gauguin</p>
+                </div>
+                <div class="artist-container">
+                    <img class="imgArtist" src="https://media.gettyimages.com/id/51243322/photo/circa-1510-the-italian-painter-sculptor-architect-and-engineer-leonardo-da-vinci-original.jpg?s=612x612&w=0&k=20&c=kQq2q40bs8svewd1S0gKZTMxesMD7aCgKQ-sveC1yIA=" alt="Leonardo da Vinci">
+                    <p class="artist-name">Leonardo da Vinci</p>
+                </div>
+                <div class="artist-container">
+                    <img class="imgArtist" src="https://media.gettyimages.com/id/992671726/photo/porto-portugal-indian-artist-anish-kapoor-briefs-visiting-journalists-in-front-of-his-work.jpg?s=612x612&w=0&k=20&c=zeipKHzFrb6bEG244UltX9JCVlPRwdXLlesCvM6mlvQ=" alt="Anish Kapoor">
+                    <p class="artist-name">Anish Kapoor</p>
+                </div>
+                <div class="artist-container">
+                    <img class="imgArtist" src="https://media.gettyimages.com/id/500932815/photo/american-pop-artist-edward-ruscha-california-1985.jpg?s=612x612&w=0&k=20&c=gf7m5lCrC5dZJsZzbZ2LGzdNm4v6MWMCv2vtGXiPvD0=" alt="Edward Ruscha">
+                    <p class="artist-name">Edward Ruscha</p>
+                </div>
+                <div class="artist-container">
+                    <img class="imgArtist" src="https://media.gettyimages.com/id/90525809/photo/india-painter-raja-ravi-varmas-oleograph-depicting-goddess-saraswati.jpg?s=612x612&w=0&k=20&c=aTOAU7wj4HS9ksdZzY5OmEFpucqQqYn9P6uaWHRdPGk=" alt="Raja Ravi Varma">
+                    <p class="artist-name">Raja Ravi Varma</p><i>Sorry, unable to get real image</i><p
+                </div>
+            </div>
+            
+    </div>
+    </div>
+    <script>
+document.getElementById('toGallery').addEventListener('click',
+    function(){
+        window.location.href="gallery.html"
+    }
+);
+    </script>
+</body>
+</html>
