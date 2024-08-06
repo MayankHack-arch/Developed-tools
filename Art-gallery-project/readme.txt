@@ -10,6 +10,7 @@ Features
     Filter displayed artworks based on selected artists.
     Responsive design suitable for various screen sizes.
     Navigation button to return to the home page.
+    It is made only with HTML, CSS, JavaScript and Web-Api. 
 
 
 <b>Getting Started</b>
@@ -17,3 +18,7 @@ Prerequisites
 
     A web browser (Chrome, Firefox, Safari, etc.)
     An internet connection for accessing the API
+    All four files index.html, gallery.html, script.js, style.css
+
+Hope you will enjoy my project and also feedback me any changes.
+gmail- yug8566@gmail.com
