@@ -1,7 +1,4 @@
-*Mayank*
-
-*Introduction*
-
+Hii,
 I'm Mayank, a Mechanical Engineering diploma student with a passion for programming, cybersecurity, and debugging.
 
 *About Me*
