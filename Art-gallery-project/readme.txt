@@ -1,19 +1,19 @@
 Art Institute of Chicago API Project
-<b>Project Overview</b>
+--Project Overview--
 
 The Art Institute of Chicago API Test is a web application designed to interact with the Art Institute of Chicago's API. The application allows users to fetch and display artworks from the institute, filter the artworks based on selected artists, and navigate back to the home page. The project demonstrates the use of a public API to dynamically generate and manage content on a webpage.
-Features
+--Features--
 
-    Fetch artworks from the Art Institute of Chicago API.
-    Display artworks with titles, dates, images, and artists.
-    Dynamically generate checkboxes for filtering artworks by artist.
-    Filter displayed artworks based on selected artists.
-    Responsive design suitable for various screen sizes.
-    Navigation button to return to the home page.
-    It is made only with HTML, CSS, JavaScript and Web-Api. 
+    1.Fetch artworks from the Art       Institute of Chicago API.
+    2.Display artworks with             titles,     dates, images,        and artists.
+    3.Dynamically generate              checkboxes for filtering          artworks by artist.
+    4.Filter displayed artworks         based on selected artists.
+    5.Responsive design suitable        for various screen sizes.
+    6.Navigation button to return       to the home page.
+    7.It is made only with HTML,        CSS, JavaScript and Web-          Api. 
 
 
-<b>Getting Started</b>
+--Getting Started--
 Prerequisites
 
     A web browser (Chrome, Firefox, Safari, etc.)
